@@ -1,6 +1,5 @@
 Upgrade ManageEngine ADManager, ADAudit, Exchange Reporter, Self Service
 -------------------------------------------------------------------------
--------------------------------------------------------------------------
 
 PDL VAM upgrade on the LIVE to support Release 8 features
 Change ID : 5161    |   Stage : Approval   |   Status : Business Approval Required   |    Requested by : Jayaprasad Kothandaraman 
@@ -19,7 +18,7 @@ Vamctrl
 Vamingest
 Vamrules
 Vamwebui
-DB_VAM – minor patch to the schema for Billboard image support
+DB_VAM â€“ minor patch to the schema for Billboard image support
 Also includes a minor configuration update for Billboard in the XTIVAM in the following files:
 
 
